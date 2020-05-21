@@ -1,2 +1,3 @@
 # Python_Projects
-It contains all my python projects
+It contains all my python project's code.
+
